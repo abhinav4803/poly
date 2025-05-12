@@ -148,7 +148,7 @@ int main()
   insertTerm(&poly1, 8, 0);
 
   // Polynomial 2: -3x^1 + 2x^1 = -1x^1
-  insertTerm(&poly2, -3, 1);
+  insertTerm(&poly2, -3, 2);
   insertTerm(&poly2, 2, 1);
 
   printf("Polynomial 1: ");
